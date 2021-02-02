@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  humidity: 1.5
+  sunlight: 1.5
+
+two:
+  name: 
+  humidity: 1.5
+  sunlight: 1.5
